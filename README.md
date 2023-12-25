@@ -1,1 +1,1 @@
-# Gemini Integrated Chatbot
+# Gemini Integrated AI Chatbot
